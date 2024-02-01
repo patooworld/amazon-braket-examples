@@ -26,3 +26,4 @@ qiskit-aer==0.13.2
 qiskit_braket_provider==0.0.5
 qiskit-terra==0.45.1
 scipy==1.11.4
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
