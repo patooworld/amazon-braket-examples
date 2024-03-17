@@ -26,3 +26,6 @@ qiskit-aer==0.13.2
 qiskit_braket_provider==0.0.5
 qiskit-terra==0.45.2
 scipy==1.12.0
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+networkx>=2.6 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
